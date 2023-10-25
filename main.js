@@ -17,22 +17,30 @@ var: Es una forma  mucho mas flexible a la hora de crear variables, ya que nos p
 
 */
 
-/* var edad = 5;
+if(true){
+    var palabra = "Suscribite" 
+}
 
-var edad = 3; */
+console.log(palabra)
 
 /* 
 
 let: Permite actualizar o modificar una variable, pero no volver a crearla con el mismo nombre.
 
 */
+
+if(true){
+    let palabra = "Suscribite"
+}
+ console.log(palabra)
+
 /* 
 let persona = "Luciano";
 persona = "Tiziano"; */
 
 /* 
 
-const(constante): Permite crear una variable con un nombre y un valor, pero no nos deja redeclararla o modificar ese valor del principio. 
+const(constante): Permite crear una variable con un nombre y un valor, pero no nos deja redeclararla o modificar ese valor del principio. Esta pensado para que una vez que creemos un valor a la constante, no se pueda modificar tanto se este ejecutando el codigo
 
 */
 
