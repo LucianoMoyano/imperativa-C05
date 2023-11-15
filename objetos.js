@@ -235,7 +235,7 @@ Luciano nos pide que creemos 2 funciones para resolver esto.. utilizando .length
 //CODIGO
 
 // en primer lugar lo que hacemos es crear la funcion y pasarle los parametros correspondientes
-/* function elements (arreglo, propiedad){
+ function elements (arreglo, propiedad){
   //creamos la variable nuevoArreglo la cual comienza siendo un arreglo vacio y es aca donde vamos a ir llenando con los valores que le pasemos por argumento
   let nuevoArreglo = []
   //pasamoa a iterar nuestros elementos del arreglo
@@ -249,7 +249,7 @@ Luciano nos pide que creemos 2 funciones para resolver esto.. utilizando .length
 
 console.log(elements(ecommerce, 'precio'))
 
- */
+ 
 
 
 
